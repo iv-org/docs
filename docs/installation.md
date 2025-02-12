@@ -78,8 +78,8 @@ Make sure to run the newer Docker Compose V2: https://docs.docker.com/compose/in
               port: 5432
             check_tables: true
             signature_server: inv_sig_helper:12999
-            visitor_data: CHANGE_ME
-            po_token: CHANGE_ME
+            visitor_data: "CHANGE_ME!!"
+            po_token: "CHANGE_ME!!"
             # external_port:
             # domain:
             # https_only: false
